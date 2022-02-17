@@ -1,6 +1,6 @@
 #language: es
 
-Característica: hacer uso de las distintas secciones y comprar informacion
+Característica: hacer uso de las distintas secciones y comparar informacion
 
   Escenario: se encuentra en la pagina de inicio
     Dado que el cliente se encuentra en la pagina principal
