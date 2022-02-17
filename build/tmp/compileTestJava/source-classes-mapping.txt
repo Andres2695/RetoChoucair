@@ -1,32 +1,32 @@
-com/choucairtesting/runner/InicioRunner.java
- com.choucairtesting.runner.InicioRunner
-com/choucairtesting/runner/ContactenosRunner.java
- com.choucairtesting.runner.ContactenosRunner
-com/choucairtesting/stepDefinition/FormacionStepDefinition.java
- com.choucairtesting.stepDefinition.FormacionStepDefinition
-com/choucairtesting/stepDefinition/ContactenosStepDefinition.java
- com.choucairtesting.stepDefinition.ContactenosStepDefinition
-com/choucairtesting/runner/ServiciosRunner.java
- com.choucairtesting.runner.ServiciosRunner
-com/choucairtesting/runner/IndustriaRunner.java
- com.choucairtesting.runner.IndustriaRunner
-com/choucairtesting/stepDefinition/ServiciosStepDefinition.java
- com.choucairtesting.stepDefinition.ServiciosStepDefinition
-com/choucairtesting/runner/FormacionRunner.java
- com.choucairtesting.runner.FormacionRunner
-com/choucairtesting/stepDefinition/IndustriasStepDefinition.java
- com.choucairtesting.stepDefinition.IndustriasStepDefinition
-com/choucairtesting/stepDefinition/InicioStepDefinition.java
- com.choucairtesting.stepDefinition.InicioStepDefinition
 com/choucairtesting/runner/ComunidadRunner.java
  com.choucairtesting.runner.ComunidadRunner
-com/choucairtesting/runner/EmpleosRunner.java
- com.choucairtesting.runner.EmpleosRunner
-com/choucairtesting/stepDefinition/ComunidadStepDefinition.java
- com.choucairtesting.stepDefinition.ComunidadStepDefinition
-com/choucairtesting/stepDefinition/EmpleosStepDefinition.java
- com.choucairtesting.stepDefinition.EmpleosStepDefinition
 com/choucairtesting/runner/NosotrosRunner.java
  com.choucairtesting.runner.NosotrosRunner
+com/choucairtesting/stepDefinition/ServiciosStepDefinition.java
+ com.choucairtesting.stepDefinition.ServiciosStepDefinition
+com/choucairtesting/stepDefinition/IndustriasStepDefinition.java
+ com.choucairtesting.stepDefinition.IndustriasStepDefinition
+com/choucairtesting/runner/InicioRunner.java
+ com.choucairtesting.runner.InicioRunner
+com/choucairtesting/stepDefinition/EmpleosStepDefinition.java
+ com.choucairtesting.stepDefinition.EmpleosStepDefinition
+com/choucairtesting/runner/ServiciosRunner.java
+ com.choucairtesting.runner.ServiciosRunner
+com/choucairtesting/runner/EmpleosRunner.java
+ com.choucairtesting.runner.EmpleosRunner
+com/choucairtesting/stepDefinition/ContactenosStepDefinition.java
+ com.choucairtesting.stepDefinition.ContactenosStepDefinition
+com/choucairtesting/runner/IndustriaRunner.java
+ com.choucairtesting.runner.IndustriaRunner
+com/choucairtesting/stepDefinition/FormacionStepDefinition.java
+ com.choucairtesting.stepDefinition.FormacionStepDefinition
+com/choucairtesting/stepDefinition/InicioStepDefinition.java
+ com.choucairtesting.stepDefinition.InicioStepDefinition
+com/choucairtesting/runner/ContactenosRunner.java
+ com.choucairtesting.runner.ContactenosRunner
 com/choucairtesting/stepDefinition/NosotrosStepDefinition.java
  com.choucairtesting.stepDefinition.NosotrosStepDefinition
+com/choucairtesting/stepDefinition/ComunidadStepDefinition.java
+ com.choucairtesting.stepDefinition.ComunidadStepDefinition
+com/choucairtesting/runner/FormacionRunner.java
+ com.choucairtesting.runner.FormacionRunner
