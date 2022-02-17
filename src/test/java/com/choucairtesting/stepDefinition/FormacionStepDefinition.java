@@ -19,8 +19,8 @@ public class FormacionStepDefinition {
     formacionSteps.clickPortafolio();
     }
 
-    @Entonces("^se visualiza la apgina de portafolio$")
-    public void se_visualiza_la_apgina_de_portafolio() {
+    @Entonces("^se visualiza la pagina de portafolio$")
+    public void se_visualiza_la_pagina_de_portafolio() {
         Assert.assertEquals("Portafolio Training Choucair Online",formacionSteps.tituloPOrtafolio());
     }
 }

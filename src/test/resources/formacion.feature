@@ -10,4 +10,4 @@ Característica: el usuario interactua con la pagina de formacion
     Escenario: el usuario realiza click en el portafolio y en las pregutnas
       Cuando el usuario da click en preguntas
       Y da click en portafolio
-        Entonces se visualiza la apgina de portafolio
+        Entonces se visualiza la pagina de portafolio
