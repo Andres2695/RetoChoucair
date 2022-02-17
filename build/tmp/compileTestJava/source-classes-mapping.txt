@@ -18,15 +18,15 @@ com/choucairtesting/stepDefinition/ContactenosStepDefinition.java
  com.choucairtesting.stepDefinition.ContactenosStepDefinition
 com/choucairtesting/runner/IndustriaRunner.java
  com.choucairtesting.runner.IndustriaRunner
-com/choucairtesting/stepDefinition/FormacionStepDefinition.java
- com.choucairtesting.stepDefinition.FormacionStepDefinition
+com/choucairtesting/runner/FormacionRunner.java
+ com.choucairtesting.runner.FormacionRunner
 com/choucairtesting/stepDefinition/InicioStepDefinition.java
  com.choucairtesting.stepDefinition.InicioStepDefinition
 com/choucairtesting/runner/ContactenosRunner.java
  com.choucairtesting.runner.ContactenosRunner
 com/choucairtesting/stepDefinition/NosotrosStepDefinition.java
  com.choucairtesting.stepDefinition.NosotrosStepDefinition
+com/choucairtesting/stepDefinition/FormacionStepDefinition.java
+ com.choucairtesting.stepDefinition.FormacionStepDefinition
 com/choucairtesting/stepDefinition/ComunidadStepDefinition.java
  com.choucairtesting.stepDefinition.ComunidadStepDefinition
-com/choucairtesting/runner/FormacionRunner.java
- com.choucairtesting.runner.FormacionRunner

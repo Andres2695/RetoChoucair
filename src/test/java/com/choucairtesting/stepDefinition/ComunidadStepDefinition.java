@@ -20,7 +20,8 @@ public class ComunidadStepDefinition {
 
 
     @Entonces("^se comprueba que la foto se este msotrando y se pueda pasar$")
-    public void se_comprueba_quye_el_video_se_este_mostrando() {
+    public void se_comprueba_quye_el_video_se_este_mostrando() throws InterruptedException {
+        Thread.sleep(3000);
     Assert.assertThat(comunidadPageObject.getDriver().findElement(comunidadPageObject.getImgRetos()).isDisplayed(), Matchers.is(true));
     }
 }
