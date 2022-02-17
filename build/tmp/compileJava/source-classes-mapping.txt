@@ -1,0 +1,40 @@
+com/choucairtesting/pageObject/InicioPageObject.java
+ com.choucairtesting.pageObject.InicioPageObject
+com/choucairtesting/steps/InicioSteps.java
+ com.choucairtesting.steps.InicioSteps
+com/choucairtesting/steps/ContactenosSteps.java
+ com.choucairtesting.steps.ContactenosSteps
+com/choucairtesting/pageObject/IndustriaPageObject.java
+ com.choucairtesting.pageObject.IndustriaPageObject
+com/choucairtesting/pageObject/ServiciosPageObject.java
+ com.choucairtesting.pageObject.ServiciosPageObject
+com/choucairtesting/steps/IndustriaSteps.java
+ com.choucairtesting.steps.IndustriaSteps
+com/choucairtesting/steps/ServiciosSteps.java
+ com.choucairtesting.steps.ServiciosSteps
+com/choucairtesting/steps/FormacionSteps.java
+ com.choucairtesting.steps.FormacionSteps
+com/choucairtesting/pageObject/ContactenosPageObject.java
+ com.choucairtesting.pageObject.ContactenosPageObject
+com/choucairtesting/utils/Solicitud.java
+ com.choucairtesting.utils.Solicitud
+com/choucairtesting/pageObject/FomracionPageObject.java
+ com.choucairtesting.pageObject.FomracionPageObject
+com/choucairtesting/utils/Datos.java
+ com.choucairtesting.utils.Datos
+com/choucairtesting/utils/Formacion.java
+ com.choucairtesting.utils.Formacion
+com/choucairtesting/utils/Scroll.java
+ com.choucairtesting.utils.Scroll
+com/choucairtesting/pageObject/ComunidadPageObject.java
+ com.choucairtesting.pageObject.ComunidadPageObject
+com/choucairtesting/steps/ComunidadSteps.java
+ com.choucairtesting.steps.ComunidadSteps
+com/choucairtesting/pageObject/EmpleosPageObject.java
+ com.choucairtesting.pageObject.EmpleosPageObject
+com/choucairtesting/steps/EmpleosSteps.java
+ com.choucairtesting.steps.EmpleosSteps
+com/choucairtesting/steps/NosotrosSteps.java
+ com.choucairtesting.steps.NosotrosSteps
+com/choucairtesting/pageObject/NosotrosPageObject.java
+ com.choucairtesting.pageObject.NosotrosPageObject
